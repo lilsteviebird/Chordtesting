@@ -14,7 +14,7 @@ class Footer extends Component {
 			<footer>
 				<ul className="site-link">
 				<li>
-					&copy; {this.state.year} CoderJouney
+					&copy; {this.state.year} StevenLi
 				</li>
 				</ul>
 			</footer>
