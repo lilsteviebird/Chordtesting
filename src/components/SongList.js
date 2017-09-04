@@ -22,7 +22,7 @@ class SongList extends Component {
 
     return (
       <div>
-        <h1 style={{marginBottom: "0.5em"}}>Songs</h1>
+        <h1 style={{marginBottom: "0.5em"}}>music</h1>
 
         <div style={songListStyles}>
           {songIds.map((id) => {
