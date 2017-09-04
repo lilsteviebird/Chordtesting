@@ -1,0 +1,29 @@
+{
+  "name": "chords",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@blueprintjs/core": "^1.27.0",
+    "chordsheetjs": "^1.4.0",
+    "dom": "^0.0.3",
+    "jest-cli": "^20.0.4",
+    "re-base": "^3.0.3",
+    "react": "^15.6.1",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^1.0.12",
+    "stringify": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^2.9.1",
+    "react-dom": "^15.6.1",
+    "react-test-renderer": "^15.6.1"
+  }
+}
