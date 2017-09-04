@@ -17,7 +17,9 @@ const songCardStyles = {
 
 class SongList extends Component {
   render() {
+
     const { songs } = this.props
+    console.log('songs', songs)
     const songIds = Object.keys(songs)
 
     return (
